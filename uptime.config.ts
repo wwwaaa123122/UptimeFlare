@@ -92,7 +92,7 @@ const workerConfig: WorkerConfig = {
       hideLatencyChart: false,
       expectedCodes: [200],
       timeout: 10000,
-    },,
+    },
     {
       id: 'openlist',
       name: 'Starlr OneDrive',
