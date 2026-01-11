@@ -96,7 +96,7 @@ const workerConfig: WorkerConfig = {
     {
       id: 'openlist',
       name: 'Starlr OneDrive',
-      method: 'GET',
+      method: 'HEAD',
       target: 'https://pan.xc-lr.cnn/',
       statusPageLink: 'https://pan.xc-lr.cn/',
       hideLatencyChart: false,
