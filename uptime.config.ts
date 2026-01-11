@@ -140,7 +140,7 @@ const workerConfig: WorkerConfig = {
       // [Required] payload to be sent
       // $MSG will be replaced with the human-readable notification message
       payload: {
-        "from": "系统状态更新 <uptimeflare@update.mail.mcxclr.top>",
+        "from": "系统状态更新 <uptimeflare@mail.mcxclr.top>",
         "to": ["wwwaaa123122@qq.com"],
         "subject": "UptimeFlare 状态更新",
         "text": "$MSG"
