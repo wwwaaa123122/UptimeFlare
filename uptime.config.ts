@@ -10,7 +10,7 @@ const pageConfig: PageConfig = {
   title: "Starlr 的状态页",
   // Links shown at the header of your status page, could set `highlight` to `true`
   links: [
-    { link: 'https://github.com/wwwaaa123155', label: 'GitHub' },
+    { link: 'https://github.com/wwwaaa123122', label: 'GitHub' },
     { link: 'https://www.xc-lr.cn/', label: '博客' },
   ],
 }
