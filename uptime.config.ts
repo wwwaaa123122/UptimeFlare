@@ -94,16 +94,6 @@ const workerConfig: WorkerConfig = {
       timeout: 10000,
     },
     {
-      id: 'Openlist',
-      name: 'Starlr OneDrive',
-      method: 'GET',
-      target: 'https://pan.xc-lr.cn/',
-      statusPageLink: 'https://pan.xc-lr.cn/',
-      hideLatencyChart: false,
-      expectedCodes: [200],
-      timeout: 100000,
-    },
-    {
       id: 'bot_server_ssh',
       name: '德国机 SSH',
       method: 'TCP_PING',
